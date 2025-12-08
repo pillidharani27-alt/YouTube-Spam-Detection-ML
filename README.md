@@ -11,10 +11,9 @@ YouTube receives millions of comments daily, many of which are spam, scam, promo
 This project uses Machine Learning + NLP to classify comments as:
 
 Spam
-
-[!image alt](https://github.com/pillidharani27-alt/YouTube-Spam-Detection-ML/blob/main/Screenshots/not%20spam.png?raw=true)
-
+![image alt](https://github.com/pillidharani27-alt/YouTube-Spam-Detection-ML/blob/main/Screenshots/spam.png?raw=true)
 Not Spam
+[!image alt](https://github.com/pillidharani27-alt/YouTube-Spam-Detection-ML/blob/main/Screenshots/not%20spam.png?raw=true)
 
 The system is trained using multiple ML algorithms and deployed using a Flask Web Application, where users can input any comment and instantly see prediction results.
 
