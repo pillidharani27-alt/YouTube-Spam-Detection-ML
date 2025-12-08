@@ -12,6 +12,8 @@ This project uses Machine Learning + NLP to classify comments as:
 
 Spam
 
+[!image alt](https://github.com/pillidharani27-alt/YouTube-Spam-Detection-ML/blob/main/Screenshots/not%20spam.png?raw=true)
+
 Not Spam
 
 The system is trained using multiple ML algorithms and deployed using a Flask Web Application, where users can input any comment and instantly see prediction results.
