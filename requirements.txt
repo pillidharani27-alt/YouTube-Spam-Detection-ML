@@ -1,1 +1,10 @@
+flask
+pandas
+numpy
+scikit-learn
+tensorflow
+mysql-connector-python
+matplotlib
+seaborn
+joblib
 
